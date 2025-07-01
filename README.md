@@ -2,6 +2,16 @@
 
 Este é um projeto de uma aplicação de lista de tarefas (To-Do List) desenvolvida com React e Redux para fins de estudo.
 
+---
+
+##  Deploy
+
+A aplicação está disponível para visualização e testes no seguinte link:
+
+**[Acessar](https://to-do-list-topaz-ten-76.vercel.app/)**
+
+---
+
 ## Funcionalidades
 
 - Adicionar uma nova tarefa
@@ -16,8 +26,9 @@ Este é um projeto de uma aplicação de lista de tarefas (To-Do List) desenvolv
 - [Redux](https://redux.js.org/) com [Redux Toolkit](https://redux-toolkit.js.org/)
 - [React-Redux](https://react-redux.js.org/)
 - [React Icons](https://react-icons.github.io/react-icons/)
+- Deploy: [Vercel](https://vercel.com/)
 
-## Como Executar o Projeto
+## Como Executar o Projeto Localmente
 
 1.  **Clone o repositório:**
     ```bash
